@@ -6,8 +6,10 @@ This repository contains the source code for the talk slides of the talk _A pict
 
 
 ### Usage
-The source code depends on an early version of the Typst package *Lilaq* which you can find under https://github.com/lilaq-project/lilaq/tree/v0.0.1-alpha. Please copy the `src` directory into the root of this repository in order to compile the talk slides. 
+The source code depends on an early version of the Typst package *Lilaq*. Please clone this repository recursively in order to be able to compile the talk slides.
+```
+git clone https://github.com/Mc-Zen/slides-lilaq-typst-meetup-24 --recursive
+```
 
 --- 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Mc-Zen/slides-typst-meetup-24">A picture is worth 1000 words</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Mc-Zen">Mc-Zen</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a></p>
-
+A picture is worth 1000 words © 2024 by Mc-Zen is licensed under CC BY-NC 4.0 
