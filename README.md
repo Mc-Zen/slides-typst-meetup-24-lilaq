@@ -1,8 +1,8 @@
-# A picture is worth 1000 words
+# A picture is worth a thousand words
 _Talk slides from the Typst Meetup 2024_
 
 
-This repository contains the source code for the talk slides of the talk _A picture is worth 1000 words_ given at the Typst Meetup 2024. A video recording of the talk can be found at https://www.youtube.com/watch?v=cuVYyej_H54. 
+This repository contains the source code for the talk slides of the talk _A picture is worth a thousand words_ given at the Typst Meetup 2024. A video recording of the talk can be found at https://www.youtube.com/watch?v=cuVYyej_H54. 
 
 
 ### Usage
@@ -12,4 +12,4 @@ git clone https://github.com/Mc-Zen/slides-lilaq-typst-meetup-24 --recursive
 ```
 
 --- 
-A picture is worth 1000 words © 2024 by Mc-Zen is licensed under CC BY-NC 4.0 
+A picture is worth a thousand words © 2024 by Mc-Zen is licensed under CC BY-NC 4.0 
