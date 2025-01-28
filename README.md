@@ -8,7 +8,7 @@ This repository contains the source code for the talk slides of the talk _A pict
 ### Usage
 The source code depends on an early version of the Typst package *Lilaq*. Please clone this repository recursively in order to be able to compile the talk slides.
 ```
-git clone https://github.com/Mc-Zen/slides-lilaq-typst-meetup-24 --recursive
+git clone https://github.com/Mc-Zen/slides-typst-meetup-24-lilaq --recursive
 ```
 
 --- 
